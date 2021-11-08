@@ -1,6 +1,6 @@
 # btrfs-rmdir
 
-Delete more btrfs snapshots in a directory.
+Delete more btrfs subvolume in a directory.
 
 
 Install:
