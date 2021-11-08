@@ -4,7 +4,7 @@
 
 Install:
 
-*bold* wget -O /usr/local/sbin/btrfs-rmdir https://raw.githubusercontent.com/unix1984/btrfs-rmdir/main/btrfs-rmdir && chmod +x /usr/local/sbin/btrfs-rmdir
+wget -O /usr/local/sbin/btrfs-rmdir https://raw.githubusercontent.com/unix1984/btrfs-rmdir/main/btrfs-rmdir && chmod +x /usr/local/sbin/btrfs-rmdir
 
 
 
