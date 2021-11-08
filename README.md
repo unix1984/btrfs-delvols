@@ -1,5 +1,9 @@
 # btrfs-rmdir
 
+<div class="text-white bg-blue mb-2">
+  .text-white on .bg-blue
+</div>
+
 Install:
 
 wget -O /usr/local/sbin/btrfs-rmdir https://raw.githubusercontent.com/unix1984/btrfs-rmdir/main/btrfs-rmdir && chmod +x /usr/local/sbin/btrfs-rmdir
