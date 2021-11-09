@@ -23,3 +23,8 @@ Install:
 * [-d] - delete all subvolumes
 * [-h] - This help
 
+
+
+
+
+https://www.paypal.com/donate?hosted_button_id=BABJM2XDMA256
