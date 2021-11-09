@@ -25,6 +25,3 @@ Install:
 
 
 
-
-
-https://www.paypal.com/donate?hosted_button_id=BABJM2XDMA256
