@@ -16,10 +16,10 @@ Install:
   **mv btrfs-delvols/btrfs-delvols /usr/local/sbin/btrfs-delvols**
     
   **chmod +x /usr/local/sbin/btrfs-delvols**
-  
-    
-    
-    
+  \
+  \
+  \ 
+  \  
   method 2:
     
 **wget -O /usr/local/sbin/btrfs-delvols https://raw.githubusercontent.com/unix1984/btrfs-delvols/main/btrfs-delvols && chmod +x /usr/local/sbin/btrfs-delvols**
