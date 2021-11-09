@@ -16,11 +16,11 @@ Install:
   - **mv btrfs-delvols/btrfs-delvols /usr/local/sbin/btrfs-delvols**
     
   - **chmod +x /usr/local/sbin/btrfs-delvols**
- 
-  
-    
-      
-        
+
+<br>
+<br>
+<br>
+<br>
 
 *Example:
 1) echo only: btrfs-delvols -e /path/to/dir
