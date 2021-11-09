@@ -21,10 +21,10 @@ Install:
   - **chmod +x /usr/local/sbin/btrfs-delvols**
 
 <br>
-<br> 
 or:
+  **wget -O /usr/local/sbin/btrfs-delvols https://raw.githubusercontent.com/unix1984/btrfs-delvols/main/btrfs-delvols && chmod +x /usr/local/sbin/btrfs-delvols**
+<br> 
 <br>
-**wget -O /usr/local/sbin/btrfs-delvols https://raw.githubusercontent.com/unix1984/btrfs-delvols/main/btrfs-delvols && chmod +x /usr/local/sbin/btrfs-delvols**
 <br>
 <br>
 
