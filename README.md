@@ -10,11 +10,11 @@ Delete more btrfs subvolume in a directory.
 Install:  
   
     
-  **git clone https://github.com/unix1984/btrfs-delvols.git**
+  -**git clone https://github.com/unix1984/btrfs-delvols.git**
     
-  **mv btrfs-delvols/btrfs-delvols /usr/local/sbin/btrfs-delvols**
+  -**mv btrfs-delvols/btrfs-delvols /usr/local/sbin/btrfs-delvols**
     
-  **chmod +x /usr/local/sbin/btrfs-delvols**
+  -**chmod +x /usr/local/sbin/btrfs-delvols**
  
 
 
