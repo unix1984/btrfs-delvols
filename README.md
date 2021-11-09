@@ -6,7 +6,7 @@
 
 Delete more btrfs subvolume in a directory.
 
-<mark style="background-color: blue">Marked text</mark>
+<code> <i>This text will be italic</i> <b>this text will be bold</b> </code>
 
 Install:  
   
