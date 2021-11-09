@@ -17,7 +17,10 @@ Install:
     
   - **chmod +x /usr/local/sbin/btrfs-delvols**
  
-
+  
+    
+      
+        
 
 *Example:
 1) echo only: btrfs-delvols -e /path/to/dir
