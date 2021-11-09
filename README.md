@@ -5,7 +5,7 @@ Delete more btrfs subvolume in a directory.
 
 
 Install:
-**wget -O /usr/local/sbin/btrfs-delvols https://raw.githubusercontent.com/unix1984/btrfs-delvols/main/btrfs-delvols && chmod +x /usr/local/sbin/btrfs-delvols**
+## **wget -O /usr/local/sbin/btrfs-delvols https://raw.githubusercontent.com/unix1984/btrfs-delvols/main/btrfs-delvols && chmod +x /usr/local/sbin/btrfs-delvols**
 
 
 
