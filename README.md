@@ -1,5 +1,4 @@
 # btrfs-delvols
-![alt text](https://raw.githubusercontent.com/unix1984/btrfs-rmdir/main/rmdir_example.png)
 
 
 Delete more btrfs subvolume in a directory.
